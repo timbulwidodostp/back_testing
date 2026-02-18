@@ -1,6 +1,8 @@
 # back_testing
 Back-Testing for Forecasting Evaluation Use back_testing With STATA 19
 
+https://www.youtube.com/watch?v=bDdtZxPOP2I
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
